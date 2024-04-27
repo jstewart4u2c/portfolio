@@ -38,6 +38,9 @@ standard of work.
 
 **Papa John's Pizza** - Farmington, UT
 *Delivery Driver* | Nov. 2020 - March 2022
+- Sustained a successful time management model while delivering customer orders.
+- Received frequent exceptional feedback for professional interactions and timely deliveries.
+- Skills Used: Time Management, Customer Service
 
 ### Hobbies and Interests
 - Tech Research, Building PCs, Basketball, Gaming and Content Creation, LEGO, Audiobooks, Graphic Design, Social Community Management on Discord
