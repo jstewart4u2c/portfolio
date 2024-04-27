@@ -2,7 +2,8 @@
 
 ### Skills
 **Programming**
--  C++, C#, Java, Python, Django, SQL, HTML5, CSS, Windows Software Development, Git/GitHub, Agile Development with Scrum 
+-  C++, C#, Java, Python, Django, SQL, HTML5, CSS, Windows Software Development, Git/GitHub, Agile Development with Scrum
+ 
 **General Skills**
 - Leadership, Analytical Thinking, Time Management, 90 WPM Typing Speed, Communication, Microsoft 365 and Google Workspace
 
