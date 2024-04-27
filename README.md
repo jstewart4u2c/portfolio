@@ -1,7 +1,10 @@
 # Software Developer
 
 ### Skills
--  C++, C#, Java, Python, Django, SQL, HTML5, CSS, Windows Software Development, Microsoft 365 and Google Workspace, Git/GitHub, Agile Development with Scrum, Leadership, Analytical Thinking, Time Management, 90 WPM Typing Speed, Communication
+**Programming**
+-  C++, C#, Java, Python, Django, SQL, HTML5, CSS, Windows Software Development, Git/GitHub, Agile Development with Scrum 
+**General Skills**
+- Leadership, Analytical Thinking, Time Management, 90 WPM Typing Speed, Communication, Microsoft 365 and Google Workspace
 
 ### Education
 **Weber State University**
