@@ -6,9 +6,12 @@
 ### Education
 **Weber State University**
 - Bachelor of Science, Computer Science | Jan. 2024 - Present
-▪ Expected Completion: Spring 2025
-▪ Relevant coursework: Object Oriented Windows Development, Server Side Web Development, Operating
-Systems, Advanced Database Programming
+  - Expected Completion: Spring 2025
+  - Relevant coursework:
+    - Object Oriented Windows Development
+    - Server Side Web Development
+    - Operating Systems
+    - Advanced Database Programming
   
 ### Work Experience
 
