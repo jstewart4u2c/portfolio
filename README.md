@@ -8,7 +8,7 @@
 - Leadership, Analytical Thinking, Time Management, 90 WPM Typing Speed, Communication, Microsoft 365 and Google Workspace
 
 ### Education
-**Weber State University**
+**Weber State University** -
 *Bachelor of Science, Computer Science* | Jan. 2024 - Present
 - Expected Completion: Spring 2025
 - Relevant coursework:
@@ -17,7 +17,7 @@
   - Operating Systems
   - Advanced Database Programming
    
-**Weber State University**
+**Weber State University** -
 *Associate of Applied Science, Computer Science* | Jan. 2021 - Dec. 2023
 - 3.52 overall GPA, with all required CS courses passed with a B- or better.
 - Certificate of Proficiency earned in Spring 2023.
