@@ -32,17 +32,21 @@
 <a href="https://github.com/jstewart4u2c/GameReviewSite">*Game Review Website*</a>
 - In March 2024, I decided I wanted to start doing video game reviews on my <a href="https://www.youtube.com/@juicyj4u2c">YouTube</a> channel. I had uploaded a few by the time my Server-Side Web Development class had a final project proposal, and I decided I wanted to make a website for my game reviews that allowed visitors to create an account, view and search games by title, see the rating, the genre, as well as the embedded video on my own website. I am working on adding a comments section below the video, similar to a blog, that would show the signed in user's username, the date, and of course their comment itself in a nice formatted box. Below are a few images of the site I setup, and you are welcome to check out the code by clicking the title above, or <a href="https://github.com/jstewart4u2c/GameReviewSite">here!</a>
 
-<p>Game Review Home Page</p><br>
+<p>Game Review Home Page</p>
 <img src="assets/images/JuicyReviewsMain.jpg" height="366" width="650">
+<br>
 
-<p>Review Details</p><br>
+<p>Review Details</p>
 <img src="assets/images/ExampleDetailsPage.jpg" height="366" width="650">
+<br>
 
-<p>Login Screen</p><br>
+<p>Login Screen</p>
 <img src="assets/images/LoginRegister.jpg" height="366" width="650">
+<br>
 
-<p>Contact Me</p><br>
+<p>Contact Me</p>
 <img src="assets/images/ContactPage.jpg" height="366" width="650">
+<br>
 
 ### Hobbies and Interests
 - Tech Research, Building PCs, Basketball, Gaming and Content Creation, LEGO, Audiobooks, Graphic Design, Social Community Management on Discord
