@@ -35,5 +35,14 @@
 <p>Game Review Home Page<br></p>
 <img src="/assets/images/JuicyReviewsMain.jpg" height=600px></img>
 
+<p>Review Details<br></p>
+<img src="/assets/images/ExampleDetailsPage.jpg" height=600px></img>
+
+<p>Login Screen<br></p>
+<img src="/assets/images/LoginRegister.jpg" height=600px></img>
+
+<p>Contact Me<br></p>
+<img src="/assets/images/ContactPage.jpg" height=600px></img>
+
 ### Hobbies and Interests
 - Tech Research, Building PCs, Basketball, Gaming and Content Creation, LEGO, Audiobooks, Graphic Design, Social Community Management on Discord
