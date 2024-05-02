@@ -28,23 +28,9 @@
   - Software Engineering
   - Computer Architecture
       
-### Work Experience
-**RC Willey** - Layton, UT
-*Technology Specialist* | Jan. 2022 - April 2024
-- Quickly adapted to two computer-based retail systems to complete various sales tasks.
-- Consistently met personal and department goals through persistent effort, increasing my overall sales volume by
-20% from year 1 to year 2.
-- Adequately navigated various difficult situations with customers and co-workers while maintaining a high
-standard of work.
-- Maintained high-level knowledge of products sold within the technology department to better assist customers.
-- Assisted customers with hardware and software questions regarding their purchased products.
-- Skills Used: Customer Service, Sales, Tech Support, Problem Solving, New-Hire Training
-
-**Papa John's Pizza** - Farmington, UT
-*Delivery Driver* | Nov. 2020 - March 2022
-- Sustained a successful time management model while delivering customer orders.
-- Received frequent exceptional feedback for professional interactions and timely deliveries.
-- Skills Used: Time Management, Customer Service
+### Projects
+<a href="https://github.com/jstewart4u2c/GameReviewSite">*Game Review Website*</a>
+- In March 2024, I decided I wanted to start doing video game reviews on my <a href="https://www.youtube.com/@juicyj4u2c">YouTube</a> channel. I had uploaded a few by the time my Server-Side Web Development class had a final project proposal, and I decided I wanted to make a website for my game reviews that allowed visitors to create an account, view and search games by title, see the rating, the genre, as well as the embedded video on my own website. I am working on adding a comments section below the video, similar to a blog, that would show the signed in user's username, the date, and of course their comment itself in a nice formatted box. Below are a few images of the site I setup, and you are welcome to check out the code by clicking the title above, or <a href="https://github.com/jstewart4u2c/GameReviewSite">here!</a>
 
 ### Hobbies and Interests
 - Tech Research, Building PCs, Basketball, Gaming and Content Creation, LEGO, Audiobooks, Graphic Design, Social Community Management on Discord
