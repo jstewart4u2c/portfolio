@@ -39,7 +39,7 @@
 
 <p>Retail Invoice System Menu</p>
 <img src="assets/images/RetailMenu.jpg" height="600" width="450">
-<br>
+<hr>
 
 ### Hobbies and Interests
 - Tech Research, Building PCs, Basketball, Gaming and Content Creation, LEGO, Audiobooks, Graphic Design, Social Community Management on Discord
