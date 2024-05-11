@@ -32,7 +32,7 @@
 
 <p>Game Review Home Page</p>
 <img src="assets/images/JuicyReviewsMain.jpg" height="366" width="650">
-<br>
+<hr>
 
 <a href="https://github.com/jstewart4u2c/InvoiceSystem" target="_blank">*Retail Invoice System*</a> - C#, SQL
 - As a final group project for my Object Oriented Windows Applications course, we were put into groups of 3 to create a retail system of some kind in C# using WPF in the .NET Framework. My group designed an invoice system for a jewelry store with functionality to create invoices using a dynamic list of items, search invoices using the invoice number, date, or total cost, and add/update items within the database for use within invoices. The application restricted the deletion of items that were contained on invoices. As this was a 3 person project, I was responsible for the Update Items window and all the code involved with that, including the UI layout and SQL updates for item updates and additions. Although I didn't design the main menu, I have included the picture below for reference. More details and images are included on the repository <a href="https://github.com/jstewart4u2c/InvoiceSystem" target="_blank">here</a>, or you can click the title above!
