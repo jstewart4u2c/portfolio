@@ -2,7 +2,7 @@
 
 ### Skills
 **Programming**
--  C++, C#, Java, Python, Django, SQL, HTML5, CSS, Windows Software Development, Git/GitHub, Agile Development with Scrum
+-  C++, C#, Java, Python, Django, SQL, HTML5, CSS, ASP.NET, Windows Software Development, Git/GitHub, Agile Development with Scrum
  
 **General Skills**
 - Leadership, Analytical Thinking, Time Management, 90 WPM Typing Speed, Communication, Microsoft 365 and Google Workspace
@@ -15,6 +15,8 @@
   - Server Side Web Development
   - Operating Systems
   - Advanced Database Programming
+  - Software Engineering 2
+  - Human Computer Interaction (A course for creating highly accessible and functional UI/UX)
    
 **Weber State University** | *Associate of Applied Science, Computer Science* | Jan. 2021 - Dec. 2023
 - 3.52 overall GPA, with all required CS courses passed with a B- or better.
