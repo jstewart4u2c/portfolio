@@ -44,9 +44,11 @@ https://www.linkedin.com/in/jordan-stewart4u2c/
 <img src="assets/images/RetailMenu.jpg" height="600" width="450">
 <hr>
 
-<p>Pixel Perspective, A Game Review Social Media - C#, ASP.NET</p>
+<b>Pixel Perspective, A Game Review Social Media</b> - C#, ASP.NET
 - This idea is currently being developed for a group capstone project in my final semester. The general idea is to create a social media that allows a space for the gaming community to connect with each other through the form of game reviews. Critic game journalism seems to be unreliable in many cases in this day and age, and many are turning to audience reviews to get a better idea of what a game is like. This website will allow for users to review any game on any platform and increase their reviewer reputation as they create reputable reviews. Users can follow or friend each other, upvote or downvote reviews, and create their own profile landing page which can involve their game library, a bio, a list of most popular reviews, etc. Since this idea is still in active front-end developement, I don't have a public repository or any images as of now. 
 
-<p>Day Trading Portfolio - Python/Django</p>
+<hr>
+
+<b>Day Trading Portfolio</b> - Python/Django
 - This is a project that I am currently developing as a personal project. I was given the idea from a family friend who is involved in frequent day trading. His complaint about day trading when he came to me was that there aren't a ton of great resources for polished day trade tracking. He currently uses Excel to track his stock trades which has led to a lot of manual formatting and difficulty with keeping up with the visual presentation. This site will allow for an easier way to track and edit his trades while also providing chart analysis to give visual representation of data. This web app will allow you to create an account, create new trade entries, edit those entries, view your wins and losses by calendar month, and view charts of your trade data to help you understand what you can do to win your trades more often. This project is still in active development as well, but when it is nearing completion the repository will be changed to public and images/links will be included here!
 
