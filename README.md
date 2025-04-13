@@ -9,8 +9,9 @@ https://www.linkedin.com/in/jordan-stewart4u2c/
 - Leadership, Analytical Thinking, Time Management, 90 WPM Typing Speed, Communication, Microsoft 365 and Google Workspace
 
 ### Education
-**Weber State University** | *Bachelor of Science, Computer Science* | Jan. 2024 - Present
-- Expected Completion: Spring 2025
+**Weber State University** | *Bachelor of Science, Computer Science* | Jan. 2024 - April 2025
+- Designed a full stack video game review social media project in a group of three. We pitched this idea ourselves and created our own sprint goals which we reviewed each end of sprint with our professor.
+- For course credit, I created a Day Trading Tracker web application in Python/Django as an individual project for a family friend as my client  
 - Relevant coursework:
   - Object Oriented Windows Development
   - Server Side Web Development
