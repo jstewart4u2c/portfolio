@@ -52,6 +52,11 @@ https://www.linkedin.com/in/jordan-stewart4u2c/
 <img src="assets/images/PixelHome.png" height="366" width="650">
 <hr>
 
-<b>Day Trading Portfolio</b> - Python/Django
-- This is a project that I am currently developing as a personal project. I was given the idea from a family friend who is involved in frequent day trading. His complaint about day trading when he came to me was that there aren't a ton of great resources for polished day trade tracking. He currently uses Excel to track his stock trades which has led to a lot of manual formatting and difficulty with keeping up with the visual presentation. This site will allow for an easier way to track and edit his trades while also providing chart analysis to give visual representation of data. This web app will allow you to create an account, create new trade entries, edit those entries, view your wins and losses by calendar month, and view charts of your trade data to help you understand what you can do to win your trades more often. This project is still in active development as well, but when it is nearing completion the repository will be changed to public and images/links will be included here!
+<a href="https://github.com/jstewart4u2c/DayTradeJournal" target="_blank">Day Trading Portfolio</a> - Python/Django
+- This is a project that I am currently developing as a personal project. I was given the idea from a family friend who is involved in frequent day trading. His complaint about day trading when he came to me was that there aren't a ton of great resources for polished day trade tracking. He currently uses Excel to track his stock trades which has led to a lot of manual formatting and difficulty with keeping up with the visual presentation. This web app allows you to create an account, create new trade entries, edit those entries, view your wins and losses by calendar month, and view charts of your trade data to help you understand what you can do to win your trades more often.
+
+<p>Day Trade Journal Home Page</p>
+<img src="assets/images/TradeHome.png" height="366" width="650">
+<hr>
+
 
