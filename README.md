@@ -45,9 +45,11 @@ https://www.linkedin.com/in/jordan-stewart4u2c/
 <img src="assets/images/RetailMenu.jpg" height="600" width="450">
 <hr>
 
-<b>Pixel Perspective, A Game Review Social Media</b> - C#, ASP.NET
-- This idea is currently being developed for a group capstone project in my final semester. The general idea is to create a social media that allows a space for the gaming community to connect with each other through the form of game reviews. Critic game journalism seems to be unreliable in many cases in this day and age, and many are turning to audience reviews to get a better idea of what a game is like. This website will allow for users to review any game on any platform and increase their reviewer reputation as they create reputable reviews. Users can follow or friend each other, upvote or downvote reviews, and create their own profile landing page which can involve their game library, a bio, a list of most popular reviews, etc. Since this idea is still in active front-end developement, I don't have a public repository or any images as of now. 
+<a href="https://github.com/jstewart4u2c/PixelPerspective" target="_blank">Pixel Perspective, A Game Review Social Media</a> - C#, ASP.NET
+- Pixel Perspective was created as a Bachelor capstone project for me and two others using C# and ASP.NET and powered by the IGDB API. The general idea is to create a social media that allows a space for the gaming community to connect with each other through the form of game reviews. Critic game journalism seems to be unreliable in many cases in this day and age, and many are turning to audience reviews to get a better idea of what a game is like. This website will allow for users to review any game on any platform and increase their reviewer reputation as they create reputable reviews. Users can follow or friend each other, upvote or downvote reviews, and create their own profile landing page which can involve their game library, a bio, a list of most popular reviews, etc. This web application is still being worked on over time. 
 
+<p>Pixel Perspective Home Page</p>
+<img src="assets/images/PixelHome.png" height="366" width="650">
 <hr>
 
 <b>Day Trading Portfolio</b> - Python/Django
